@@ -1,8 +1,9 @@
 body {
-    background: white;
+    background-color: #181818;
     margin: 0;
     font-family: 'Nunito Sans', 'Open Sans', sans-serif;
     white-space: nowrap;
+    
   }
   
   body * {
